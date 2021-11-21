@@ -1,1 +1,1 @@
-# Aprendizado em Deep Learning utilizando Tensorflow e Keras
+Meu primeiro projeto utilizando novos conhecimento em deep learning
