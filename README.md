@@ -1,1 +1,1 @@
-Meu primeiro projeto utilizando novos conhecimento em deep learning
+analise de dados com imagens da API do Keras
